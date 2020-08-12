@@ -1,0 +1,9 @@
+# PiHole Custom Allowlist
+# Allowing GDPR compliant trackers
+#
+
+127.0.0.1  localhost
+::1  localhost
+
+# [plausible.io]
+127.0.0.1 plausible.io
